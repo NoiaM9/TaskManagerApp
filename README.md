@@ -35,6 +35,9 @@ To run the Task Manager App locally, follow these steps:
 Choose options from the menu to perform different actions.
 Follow on-screen instructions to add tasks, mark tasks as completed, display the task list, and exit the application.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
 
